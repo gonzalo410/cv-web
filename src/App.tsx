@@ -515,13 +515,17 @@ export default function CVWebsite() {
                   <ArrowRight className="h-4 w-4 text-white/45" />
                 </a>
 
-                <button className="flex items-center justify-between rounded-3xl border border-white/10 bg-white/5 p-4 text-left transition hover:bg-white/[0.08]">
-                  <div className="flex items-center gap-3">
-                    <Download className="h-5 w-5 text-white/75" />
-                    <span>Descargar CV PDF</span>
-                  </div>
-                  <ArrowRight className="h-4 w-4 text-white/45" />
-                </button>
+                <a 
+                href="/cv-web/cv_gonzalo_mosqueda_herrera_hosteleria.pdf"
+                download
+                className="flex items-center justify-between rounded-3xl border border-white/10 bg-white/5 p-4 text-left transition hover:bg-white/[0.08]"
+              >
+                <div className="flex items-center gap-3">
+                  <Download className="h-5 w-5 text-white/75" />
+                  <span>Descargar CV PDF</span>
+                </div>
+                <ArrowRight className="h-4 w-4 text-white/45" />
+              </a>
               </div>
             </div>
           </GlassCard>
