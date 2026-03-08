@@ -516,7 +516,7 @@ export default function CVWebsite() {
                 </a>
 
                 <a 
-                href="/cv-web/cv_gonzalo_mosqueda_herrera_programador.pdf"
+                href="/cv-web/cv_gonzalo_mosqueda_programador.pdf"
                 download
                 className="flex items-center justify-between rounded-3xl border border-white/10 bg-white/5 p-4 text-left transition hover:bg-white/[0.08]"
               >
