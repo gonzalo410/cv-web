@@ -46,7 +46,7 @@ const projects = [
     description:
       "Proyecto en desarrollo enfocado en crear soluciones de automatización, chatbots y flujos de WhatsApp para mejorar la gestión de citas, tareas repetitivas y procesos internos de negocios.",
     tags: ["n8n", "IA", "WhatsApp", "Automatización", "Supabase"],
-    link: "https://www.instagram.com/risesensee/",
+    link: "https://www.risesense.es/",
   },
   {
     title: "Proyecto Final de Grado - GlowUp",
